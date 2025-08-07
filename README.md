@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Maribelle Tomacay</h1>
-<h3 align="center">A passionate and hardworking student, currently studying frontend and backend development from Philippines.</h3>
+<h3 align="center">I'm a passionate developer and creative thinker who loves blending **tech and art**. Currently a 3rd-year BS Information System student, I enjoy building web systems, exploring automation, and designing with both **code and creativity**.</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.HRcRfQknTEbi96pnLo-9ygHaHa?w=5316&h=5316&rs=1&pid=ImgDetMain">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maribelle-tomacay03&label=Profile%20views&color=0e75b6&style=flat" alt="maribelle-tomacay03" /> </p>
 
 - 🌱 I’m currently learning **Web Development and Object-oriented programming.**
+  
+- 🎨 **On the side**, I'm also a traditional art enthusiast. I love sketching portraits and exploring visual storytelling through painting.
 
 - 👨‍💻 All of my projects are available at [https://tomacay-maribelle.000webhostapp.com/](https://tomacay-maribelle.000webhostapp.com/)
 
